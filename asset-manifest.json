@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/emotion-trash-can-2021-side/static/css/main.fc255d85.chunk.css",
-    "main.js": "/emotion-trash-can-2021-side/static/js/main.70aa299c.chunk.js",
-    "main.js.map": "/emotion-trash-can-2021-side/static/js/main.70aa299c.chunk.js.map",
+    "main.js": "/emotion-trash-can-2021-side/static/js/main.d971b3f5.chunk.js",
+    "main.js.map": "/emotion-trash-can-2021-side/static/js/main.d971b3f5.chunk.js.map",
     "runtime-main.js": "/emotion-trash-can-2021-side/static/js/runtime-main.326c4337.js",
     "runtime-main.js.map": "/emotion-trash-can-2021-side/static/js/runtime-main.326c4337.js.map",
     "static/js/2.03c3787c.chunk.js": "/emotion-trash-can-2021-side/static/js/2.03c3787c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.326c4337.js",
     "static/js/2.03c3787c.chunk.js",
     "static/css/main.fc255d85.chunk.css",
-    "static/js/main.70aa299c.chunk.js"
+    "static/js/main.d971b3f5.chunk.js"
   ]
 }
